@@ -1,0 +1,4 @@
+mongohost=localhost
+mongoport=27017
+cerebro.url=http://localhost:9090
+dimension=50

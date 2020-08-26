@@ -1,0 +1,2 @@
+cornac==1.6.0
+pymongo==3.9.0

@@ -1,0 +1,3 @@
+.thisfloatLeft { width: 50%; float: left; padding-right: 5px}
+.thisfloatRight {width: 50%; float: right; padding-left: 5px}
+.thiscontainer { overflow: hidden; }
